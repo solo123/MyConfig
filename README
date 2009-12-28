@@ -1,5 +1,7 @@
 My Config:
+==========
+Ubuntu + xmonad + vim + byobu(screen)
 
-Ubuntu + xmonad + vim
-
+1) use xmonad for tiling windows, byobu for muliti-terminal and auto run some commands.
+2) vim plugins: 
 
